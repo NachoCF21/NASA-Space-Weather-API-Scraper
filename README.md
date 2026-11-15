@@ -49,4 +49,3 @@ const NASA_120_DAY_ARCHIVE = [
   // ... 120 days total
 ];
 ```
-```
