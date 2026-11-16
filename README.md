@@ -1,6 +1,6 @@
 # 🛰️ NASA Space Weather API Scraper
 
-**NASA Space Weather API Scraper** (`nasa_space_weather.py`) is a Python data-collection pipeline that queries official NASA open APIs to build a 120-day space weather and near-Earth object telemetry dataset starting from `2024-05-01`. Designed to feed the **LUNAR BASE 30: Artemis IV & Orion Survival Simulator** ([Game Repository](PASTE_GAME_REPO_URL_HERE)), the script aggregates daily records of solar flares, solar energetic proton (SEP) storms, close-approach asteroids, and radiation dose rates, exporting them directly into a ready-to-use JavaScript archive (`nasa_120_days.js`).
+**NASA Space Weather API Scraper** (`nasa_space_weather.py`) is a Python data-collection pipeline that queries official NASA open APIs to build a 120-day space weather and near-Earth object telemetry dataset starting from `2024-05-01`. Designed to feed the **LUNAR BASE 30: Artemis IV & Orion Survival Simulator** ([Game Repository](https://github.com/NachoCF21/Lunar-Base-Survival-Simulator)), the script aggregates daily records of solar flares, solar energetic proton (SEP) storms, close-approach asteroids, and radiation dose rates, exporting them directly into a ready-to-use JavaScript archive (`nasa_120_days.js`).
 
 ---
 
